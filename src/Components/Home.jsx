@@ -20,16 +20,16 @@ const Home = () => {
                     <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
                         Portfolio
                         <span className='group-hover:rotate-90 duration-300'>
-                            <MdOutlineKeyboardArrowRight/>
+                            <MdOutlineKeyboardArrowRight size={30} className='ml-1'/>
                         </span>
                     </button>
                 </div>
             </div>
-
             <div>
                 <img src={Profil} alt="Profil Image" className='rounded-2xl max-auto w-2/3 h-60 md:w-full '/>
             </div>
-       </div>
+
+        </div>
 
     </div>
   )
