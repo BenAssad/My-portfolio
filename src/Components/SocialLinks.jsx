@@ -13,7 +13,7 @@ function SocialLinks() {
                     LinkdIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'www.linkedin.com/in/ben-assad-zandjibar',
+            href: 'www.linkedin.com/in/ben-assad-zandjibar-068024234',
             style: 'rounded-tr-md'
         },
         {
